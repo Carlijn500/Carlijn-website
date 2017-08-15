@@ -6,20 +6,20 @@
 }
 .introduction {
   background:#4dd2ff;
-  width:400px;
+  width:300px;
   heigth:800px;
 float:left; 
 }
 .aboutwebsite {
  background:#33ff33;
-   width:400px;
+   width:300px;
   heigth:800px;
-  float:center;
+  text-align:center;
 }
 
 .contact {
   background:#ff6600; 
-   width:400px;
+   width:300px;
   heigth:800px; 
 float:right;
 }
