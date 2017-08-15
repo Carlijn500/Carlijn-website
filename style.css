@@ -8,18 +8,18 @@
   background:#4dd2ff;
   width:200px;
   heigth:500px;
- text-align:left;
+float:left;
 }
 .aboutwebsite {
  background:#33ff33;
    width:200px;
   heigth:500px;
-  text-align:center;
+  float:center;
 }
 
 .contact {
   background:#ff6600; 
    width:200px;
   heigth:500px; 
-text-align:right;
+float:right;
 }
