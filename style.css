@@ -2,22 +2,24 @@
   background:#eee;
   width:600px;
   heigth: 100px;
+  
 }
 .introduction {
-  background:4dd2ff;
+  background:#4dd2ff;
   width:200px;
   heigth:500px;
-  align:left;
+ text-align:left;
 }
 .aboutwebsite {
- background:33ff33;
+ background:#33ff33;
    width:200px;
   heigth:500px;
+  text-align:center;
 }
 
 .contact {
-  background:ff944d; 
+  background:#ff6600; 
    width:200px;
   heigth:500px; 
-  align:right
+text-align:right;
 }
