@@ -10,8 +10,8 @@
 }
 .introduction {
   background:#4dd2ff;
- heigth:200px;
-  width:50%
+ heigth:100px;
+  width:25%
    clear:left; 
 
 }
@@ -19,10 +19,9 @@
 
 .aboutwebsite {
  background:#33ff33;
- margin-top: 200px;
-    margin-bottom: 700px;
-    margin-right: 10px;
-    margin-left: 10px;
+heigth:100px;
+  width:25%
+   clear:right; 
 
   
 }
