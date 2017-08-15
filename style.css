@@ -10,11 +10,9 @@
 }
 .introduction {
   background:#4dd2ff;
-  border: 1px solid black;
-    margin-top: 100px;
-    margin-bottom: 800px;
-    margin-right: 10px;
-    margin-left: 10px;
+ heigth:200px;
+  width:50%
+   clear:left; 
 
 }
 
