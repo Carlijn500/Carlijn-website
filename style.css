@@ -1,13 +1,24 @@
 .wrapper {
   background:#eee;
+  width:600px;
+  heigth: 100px;
 }
 .introduction {
   background:4dd2ff;
+  width:200px;
+  heigth:500px;
+  align:left;
 }
 .aboutwebsite {
  background:33ff33;
+  width:200px:
+  heigth:500px;
+  align:center;
 }
 
 .contact {
   background:ff944d; 
+  width:200px:
+    heigth:500px;
+  align:right
 }
