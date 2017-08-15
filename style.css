@@ -10,22 +10,30 @@
 }
 .introduction {
   background:#4dd2ff;
-  width:1000px;
-  heigth:2000px;
+  border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 800px;
+    margin-right: 10px;
+    margin-left: 10px;
 
 }
 
 
 .aboutwebsite {
  background:#33ff33;
-   width:1000px;
-  heigth:2000px;
+ margin-top: 200px;
+    margin-bottom: 700px;
+    margin-right: 10px;
+    margin-left: 10px;
+
   
 }
 
 .contact {
   background:#ff6600; 
-   width:1000px;
-  heigth:2000px; 
+   margin-top: 300px;
+    margin-bottom: 600px;
+    margin-right: 10px;
+    margin-left: 10px;
 
 }
