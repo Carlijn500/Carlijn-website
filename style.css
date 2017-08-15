@@ -1,7 +1,12 @@
+.title {
+  text-align:centre;
+}
+
+
 .wrapper {
   background:#eee;
-  width:1200px;
-  heigth: 30000px;
+  width:100%;
+  heigth: 100%;
   
 }
 .introduction {
